@@ -1,7 +1,7 @@
 # KatelyaTV 便携版
 基于本地运行的影视聚合播放器
-![Uploading 捕获.PNG…]()
 
+![Uploading 捕获.PNG…]()
 
 ## 🌟 项目简介
 
