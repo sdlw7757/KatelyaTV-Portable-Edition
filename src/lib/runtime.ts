@@ -1,0 +1,59 @@
+// 该文件由 scripts/convert-config.js 自动生成，请勿手动修改
+/* eslint-disable */
+
+export const config = {
+  "cache_time": 7200,
+  "api_site": {
+    "dyttzy": {
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "name": "电影天堂资源",
+      "detail": "http://caiji.dyttzyapi.com"
+    },
+    "ruyi": {
+      "api": "http://cj.rycjapi.com/api.php/provide/vod",
+      "name": "如意资源"
+    },
+    "tyyszy": {
+      "api": "https://tyyszy.com/api.php/provide/vod",
+      "name": "天涯资源"
+    },
+    "ffzy": {
+      "api": "http://ffzy5.tv/api.php/provide/vod",
+      "name": "非凡影视",
+      "detail": "http://ffzy5.tv"
+    },
+    "zy360": {
+      "api": "https://360zy.com/api.php/provide/vod",
+      "name": "360资源"
+    },
+    "maotaizy": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "name": "茅台资源"
+    },
+    "jisu": {
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "name": "极速资源",
+      "detail": "https://jszyapi.com"
+    },
+    "dbzy": {
+      "api": "https://dbzy.tv/api.php/provide/vod",
+      "name": "豆瓣资源"
+    },
+    "mozhua": {
+      "api": "https://mozhuazy.com/api.php/provide/vod",
+      "name": "魔爪资源"
+    },
+    "yinghua": {
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "name": "樱花资源"
+    },
+    "lzi": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "量子资源站"
+    }
+  }
+} as const;
+
+export type RuntimeConfig = typeof config;
+
+export default config;
