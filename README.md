@@ -1,7 +1,7 @@
 # KatelyaTV 便携版
 基于本地运行的影视聚合播放器
+<img width="1791" height="928" alt="捕获" src="https://github.com/user-attachments/assets/6bdcbfca-432d-48aa-8ca5-7b475f388651" />
 
-![Uploading 捕获.PNG…]()
 
 ## 🌟 项目简介
 
